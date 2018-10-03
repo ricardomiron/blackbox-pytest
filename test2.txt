@@ -1,0 +1,19 @@
+INSTRUCTIONS
+You have to code the program described below. For that purpose, you can use the
+programming language of your choice. You can use your preferred IDE.
+Next, you have to test the program (run certain inputs on the program to detect possible
+faults).
+Deadline: October 4, 15:00h. Submission through Moodle (email if you do not have
+access yet).
+SPECIFICATION
+The program has to read a text from one or several files. The names will be provided as
+an input to the program. For each file provided, the program has to show: the frequency
+of appearance of each word it contains, excepting: articles, prepositions and pronouns,
+which will not be taken into consideration.
+MATERIAL TO BE DELIVERED
+• Source code.
+• Test cases used to test the program (all information you think is relevant),
+including results of running them.
+• Strategy followed to select which test cases should be run on the program. For
+example, in the case of the calculator: “division of odd numbers”, etc.
+A single pdf file (self-contained) must be uploaded to Moodle.
