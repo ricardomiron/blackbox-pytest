@@ -1,4 +1,6 @@
+#import the Counter module
 from collections import Counter
+
 def main():
 
     #user inputs file names separated by spaces
@@ -20,7 +22,7 @@ def main():
             print("\nThe total word count is:", len(words), "from file", y)
 
             c = Counter(words)
-            #show list of words by the frequency of appearance
+            #show the list of words by the frequency of appearance
             for word, count in c.most_common():
                 print(word, count)
 main()
