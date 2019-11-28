@@ -1,6 +1,5 @@
 #  Software Verification and Validation
 
-Submission of how testing has been done (04/10/2018)
 - Student: __Ricardo Mirón Torres__ (r.miron@alumnos.upm.es)
 - Master Universitario en Software y Sistemas (MUSS)
 - Universidad Politécnica de Madrid (ETSII)
